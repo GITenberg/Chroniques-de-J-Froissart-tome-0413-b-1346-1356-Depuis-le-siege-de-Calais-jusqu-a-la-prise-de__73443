@@ -1,5 +1,8 @@
 _repo: Chroniques-de-J-Froissart-tome-0413-b-1346-1356-Depuis-le-siege-de-Calais-jusqu-a-la-prise-de__73443
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73443-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56665
     wikipedia: https://fr.wikipedia.org/wiki/Sim%C3%A9on_Luce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73443#Chroniques-de-J-Froissart-tome-0413-b-1346-1356-Depuis-le-siege-de-Calais-jusqu-a-la-prise-de_
 gutenberg_issued: '2024-04-22'
 gutenberg_type: Text
 identifiers:
